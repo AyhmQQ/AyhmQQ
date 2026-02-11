@@ -10,9 +10,9 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=ayhamalderbashi&color=blueviolet&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/ayhamalderbashi?label=Followers&style=for-the-badge&color=blue)](https://github.com/ayhamalderbashi)
-[![GitHub stars](https://img.shields.io/github/stars/ayhamalderbashi?label=Stars&style=for-the-badge&color=yellow)](https://github.com/ayhamalderbashi)
+![Profile Views](https://komarev.com/ghpvc/?username=AyhmQQ&color=blueviolet&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/AyhmQQ?label=Followers&style=for-the-badge&color=blue)](https://github.com/AyhmQQ)
+[![GitHub stars](https://img.shields.io/github/stars/AyhmQQ?label=Stars&style=for-the-badge&color=yellow)](https://github.com/AyhmQQ)
 
 </div>
 
@@ -70,15 +70,15 @@
 ### 🚀 Founder & Team Lead – Breakers
 
 - Organizing hands-on cybersecurity training sessions  
-- Mentoring team members in Digital Forensics & OSINT  
+- Mentoring members in Digital Forensics & OSINT  
 - Coordinating participation in CTF competitions  
-- Building a practical learning environment focused on real-world defensive skills  
+- Building a practical, defense-focused learning environment  
 
 ---
 
 ## 🧠 Professional Summary
 
-Second-year Cybersecurity student focused on the Blue Team track, currently building hands-on skills in SOC operations and incident response.
+Second-year Cybersecurity student focused on the Blue Team track, building hands-on skills in SOC operations and incident response.
 
 Actively developing expertise in SIEM monitoring, log analysis, network traffic inspection, Windows Event Logs analysis, and basic incident handling using tools such as Wireshark, Autopsy, and Volatility.
 
@@ -90,7 +90,7 @@ Currently seeking an internship or trainee opportunity in a Security Operations 
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayhamalderbashi&theme=tokyonight&hide_border=true&border_radius=10&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyhmQQ&theme=tokyonight&hide_border=true&border_radius=10&card_width=800)](https://git.io/streak-stats)
 
 </div>
 
@@ -98,7 +98,7 @@ Currently seeking an internship or trainee opportunity in a Security Operations 
 
 <div align="center">
   
-### 🔵 Open to SOC Internships | Blue Team | Cybersecurity Training Opportunities
+### 🔵 Open to SOC Internships | Blue Team | Cybersecurity Opportunities
 
 **"Detect. Analyze. Respond. Improve."**
 
