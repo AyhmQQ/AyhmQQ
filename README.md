@@ -29,7 +29,7 @@
 
 ---
 
-## 🛡️ Core Skills
+##  Core Skills
 
 ### 🔵 Blue Team | SOC Operations
 <div align="center">
@@ -42,7 +42,7 @@
 
 </div>
 
-### 🧪 Digital Forensics & Investigation
+###  Digital Forensics & Investigation
 <div align="center">
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -52,7 +52,7 @@
 
 </div>
 
-### 💻 Technical Foundations
+###  Technical Foundations
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
@@ -67,7 +67,7 @@
 
 ## 👥 Leadership & Community
 
-### 🚀 Founder & Team Lead – Breakers
+###  Founder & Team Lead – Breakers
 
 - Organizing hands-on cybersecurity training sessions  
 - Mentoring members in Digital Forensics & OSINT  
@@ -76,7 +76,7 @@
 
 ---
 
-## 🧠 Professional Summary
+##  Professional Summary
 
 Second-year Cybersecurity student focused on the Blue Team track, building hands-on skills in SOC operations and incident response.
 
@@ -86,7 +86,7 @@ Currently seeking an internship or trainee opportunity in a Security Operations 
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   
@@ -98,7 +98,7 @@ Currently seeking an internship or trainee opportunity in a Security Operations 
 
 <div align="center">
   
-### 🔵 Open to SOC Internships | Blue Team | Cybersecurity Opportunities
+###  Open to SOC Internships | Blue Team | Cybersecurity Opportunities
 
 **"Detect. Analyze. Respond. Improve."**
 
