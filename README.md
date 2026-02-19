@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000428,100:004e92&height=220&section=header&text=Ayham%20Alderbashi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Professional%20|%20SOC%20Analyst%20|%20CCNA&descSize=25&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayham%20Alderbashi&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Student%20|%20SOC%20Aspirant%20|%20Learning%20CCNA&descSize=25&descAlignY=65"/>
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&width=950&height=150&lines=Cybersecurity+Student;Blue+Team+%7C+SOC+Trainee;Digital+Forensics+%7C+Cryptography;Incident+Response+%7C+SIEM+Monitoring;CCNA+Certified+%7C+Network+Security;Founder+%26+Team+Lead+-+Breakers )](https://git.io/typing-svg )
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=950&height=150&lines=Cybersecurity+Student;Aspiring+SOC+Analyst;Digital+Forensics+%7C+Cryptography;Learning+CCNA+%7C+Network+Security;Founder+%26+Team+Lead+-+Breakers )](https://git.io/typing-svg )
 
 </div>
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=AyhmQQ&color=00D2FF&style=for-the-badge&label=Profile+Views )
-[![GitHub followers](https://img.shields.io/github/followers/AyhmQQ?label=Followers&style=for-the-badge&color=004e92 )](https://github.com/AyhmQQ )
+![Profile Views](https://komarev.com/ghpvc/?username=AyhmQQ&color=blueviolet&style=for-the-badge&label=Profile+Views )
+[![GitHub followers](https://img.shields.io/github/followers/AyhmQQ?label=Followers&style=for-the-badge&color=blue )](https://github.com/AyhmQQ )
 [![GitHub stars](https://img.shields.io/github/stars/AyhmQQ?label=Stars&style=for-the-badge&color=yellow )](https://github.com/AyhmQQ )
 
 </div>
@@ -21,17 +21,17 @@
 ## 👨‍💻 Current Focus
 
 - 🎓 Second-year **Cybersecurity Student**
-- 🔵 Blue Team Track – SOC Operations & Incident Response
-- 🛡️ **CCNA Certified** – Networking & Infrastructure Security
-- 📊 SIEM Monitoring & Log Analysis
-- 🔐 Digital Forensics & **Cryptography**
+- 🔵 Blue Team Track – Learning SOC Operations & Incident Response
+- 🛡️ **CCNA Candidate** – Studying Networking & Infrastructure Security
+- 📊 Learning SIEM Monitoring & Log Analysis
+- 🔐 Exploring Digital Forensics & **Cryptography**
 - 👥 Founder & Team Lead – Breakers Cybersecurity Team
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Learning Path & Skills
 
-### 🔵 Blue Team | SOC Operations
+### 🔵 Blue Team | SOC Operations (In Progress)
 <div align="center">
 
 ![SIEM](https://img.shields.io/badge/SIEM-Monitoring-2E86C1?style=for-the-badge )
@@ -42,14 +42,14 @@
 
 </div>
 
-### 🔍 Digital Forensics & Security Foundations
+### 🔍 Security Foundations
 <div align="center">
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white )
 ![Autopsy](https://img.shields.io/badge/Autopsy-2C3E50?style=for-the-badge )
 ![Volatility](https://img.shields.io/badge/Volatility-1B4F72?style=for-the-badge )
 ![Cryptography](https://img.shields.io/badge/Cryptography-8E44AD?style=for-the-badge )
-![CCNA](https://img.shields.io/badge/CCNA-Network_Security-00599C?style=for-the-badge&logo=cisco&logoColor=white )
+![CCNA Study](https://img.shields.io/badge/CCNA-In_Progress-00599C?style=for-the-badge&logo=cisco&logoColor=white )
 
 </div>
 
@@ -79,13 +79,13 @@
 
 ## 📄 Professional Summary
 
-Second-year Cybersecurity student focused on the Blue Team track, building hands-on skills in SOC operations and incident response. 
+Second-year Cybersecurity student focused on the Blue Team track, building foundational skills in SOC operations and incident response. 
 
-Proudly **CCNA certified**, bringing strong networking fundamentals to the security domain. Actively developing expertise in SIEM monitoring, log analysis, network traffic inspection, and Windows Event Logs analysis. 
+Currently **preparing for the CCNA certification** to build a strong networking foundation. Actively learning SIEM monitoring, log analysis, network traffic inspection, and Windows Event Logs analysis. 
 
-Experienced in basic incident handling and digital forensics using tools such as Wireshark, Autopsy, and Volatility, with a growing focus on **Cryptography** for secure communications and data protection.
+Developing hands-on experience in basic incident handling and digital forensics using tools such as Wireshark, Autopsy, and Volatility, with a strong interest in **Cryptography** for secure communications.
 
-Currently seeking an internship or trainee opportunity in a Security Operations Center (SOC) to gain practical experience and learn from experienced security professionals.
+Currently seeking an internship or trainee opportunity in a Security Operations Center (SOC) to gain practical experience and grow as a cybersecurity professional.
 
 ---
 
@@ -101,7 +101,7 @@ Currently seeking an internship or trainee opportunity in a Security Operations 
 
 <div align="center">
   
-### 🛡️ Open to SOC Internships | Blue Team | Cybersecurity Opportunities
+### 🛡️ Open to SOC Internships | Blue Team | Learning & Growing
 
 **"Detect. Analyze. Respond. Improve."**
 
