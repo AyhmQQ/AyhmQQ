@@ -1,9 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="Learning route: CCNA now, deeper network security next, CCNP and automation ahead">
-<style>@keyframes travel{to{stroke-dashoffset:-480}}.packet{animation:travel 12s linear infinite}@media(prefers-reduced-motion:reduce){.packet{animation:none}}</style>
+<style>
+@keyframes travel { to { stroke-dashoffset:-480 } }
+@keyframes arrow-drift { 0%,65%,100% { transform:translateX(0) } 35% { transform:translateX(8px) } }
+@keyframes breathe { 0%,100% { opacity:.16 } 50% { opacity:.55 } }
+@keyframes ring { 0%,100% { r:12px; opacity:.2 } 50% { r:17px; opacity:.45 } }
+.packet { animation:travel 12s linear infinite }
+.arrow { animation:arrow-drift 6s ease-in-out infinite }
+.glow { animation:breathe 6s ease-in-out infinite }
+.ring { animation:ring 6s ease-in-out infinite }
+@media(prefers-reduced-motion:reduce) {
+.packet,.arrow,.glow,.ring { animation:none }
+}
+</style>
 <rect x="1" y="1" width="998" height="228" rx="18" fill="#0c1b2b" stroke="#284258"/>
 
 <text x="34" y="39" fill="#6ee7df" font-family="monospace" font-size="13" letter-spacing="3">LEARNING ROUTE / FOUNDATIONS FIRST</text>
 <path d="M80 91H910" stroke="#284258" stroke-width="2"/>
 <path class="packet" d="M80 91H910" stroke="#6ee7df" stroke-width="3" stroke-dasharray="14 466"/>
-<circle cx="80" cy="91" r="7" fill="#6ee7df"/><text x="65" y="129" fill="#6ee7df" font-family="monospace" font-size="13">01 / NOW</text><text x="65" y="163" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="23" font-weight="700">CCNA foundations</text><text x="65" y="195" fill="#a5bacd" font-family="Arial,sans-serif" font-size="15">Packet Tracer + IOS CLI</text><circle cx="403" cy="91" r="7" fill="#6ee7df"/><text x="388" y="129" fill="#6ee7df" font-family="monospace" font-size="13">02 / NEXT</text><text x="388" y="163" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="23" font-weight="700">Network security</text><text x="388" y="195" fill="#a5bacd" font-family="Arial,sans-serif" font-size="15">Build on networking fundamentals</text><circle cx="728" cy="91" r="7" fill="#6ee7df"/><text x="713" y="129" fill="#6ee7df" font-family="monospace" font-size="13">03 / AHEAD</text><text x="713" y="163" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="23" font-weight="700">CCNP + automation</text><text x="713" y="195" fill="#a5bacd" font-family="Arial,sans-serif" font-size="15">Deeper study + Python</text>
+<circle aria-hidden="true" class="ring" cx="80" cy="91" r="12" fill="none" stroke="#6ee7df" stroke-width="1.5" opacity=".2"/><circle cx="80" cy="91" r="7" fill="#6ee7df"/><text x="65" y="129" fill="#6ee7df" font-family="monospace" font-size="13">01 / NOW</text><text x="65" y="163" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="23" font-weight="700">CCNA foundations</text><text x="65" y="195" fill="#a5bacd" font-family="Arial,sans-serif" font-size="15">Packet Tracer + IOS CLI</text><circle cx="403" cy="91" r="7" fill="#6ee7df"/><text x="388" y="129" fill="#6ee7df" font-family="monospace" font-size="13">02 / NEXT</text><text x="388" y="163" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="23" font-weight="700">Network security</text><text x="388" y="195" fill="#a5bacd" font-family="Arial,sans-serif" font-size="15">Build on networking fundamentals</text><circle cx="728" cy="91" r="7" fill="#6ee7df"/><text x="713" y="129" fill="#6ee7df" font-family="monospace" font-size="13">03 / AHEAD</text><text x="713" y="163" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="23" font-weight="700">CCNP + automation</text><text x="713" y="195" fill="#a5bacd" font-family="Arial,sans-serif" font-size="15">Deeper study + Python</text>
 </svg>
