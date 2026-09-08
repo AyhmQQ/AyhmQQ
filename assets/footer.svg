@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="155" viewBox="0 0 1000 155" role="img" aria-label="Build with curiosity. Document with clarity. One lab at a time.">
+<style>@keyframes travel{to{stroke-dashoffset:-480}}.packet{animation:travel 12s linear infinite}@media(prefers-reduced-motion:reduce){.packet{animation:none}}</style>
+<rect x="1" y="1" width="998" height="153" rx="18" fill="#0c1b2b" stroke="#284258"/>
+
+<path d="M35 38H965" stroke="#284258" stroke-width="2"/>
+<path class="packet" d="M35 38H965" stroke="#6ee7df" stroke-width="3" stroke-dasharray="14 466"/>
+<text x="500" y="88" text-anchor="middle" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="25">Build with curiosity. Document with clarity.</text>
+<text x="500" y="120" text-anchor="middle" fill="#6ee7df" font-family="monospace" font-size="13" letter-spacing="3">AYHMQQ / ONE LAB AT A TIME</text>
+</svg>
