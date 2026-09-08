@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="CCNA Practical Labs">
+<style>@keyframes travel{to{stroke-dashoffset:-480}}.packet{animation:travel 12s linear infinite}@media(prefers-reduced-motion:reduce){.packet{animation:none}}</style>
+<rect x="1" y="1" width="998" height="278" rx="18" fill="#0c1b2b" stroke="#284258"/>
+<text x="38" y="42" fill="#6ee7df" font-family="monospace" font-size="14" letter-spacing="3">01 / FIELDWORK</text>
+<text x="38" y="96" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="38" font-weight="700">CCNA Practical Labs</text>
+<text x="38" y="140" fill="#a5bacd" font-family="Arial,sans-serif" font-size="23">Topologies, lab files, and learning notes.</text>
+<text x="38" y="175" fill="#a5bacd" font-family="Arial,sans-serif" font-size="23">Following the packet, one layer at a time.</text>
+<path d="M38 210H962" stroke="#284258"/>
+<text x="38" y="249" fill="#6ee7df" font-family="monospace" font-size="17">CISCO PACKET TRACER / ONGOING</text>
+<path d="M899 244h42m-12-12 12 12-12 12" fill="none" stroke="#6ee7df" stroke-width="2"/>
+</svg>
