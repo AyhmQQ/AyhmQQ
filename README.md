@@ -54,6 +54,18 @@ My approach: understand the concept, build a small lab, inspect the behavior, an
 Expected graduation: **February 2029** · GPA: **85/100 (Excellent)**  
 Coursework: Computer Networks, Databases, Python, Java, and Web Development.
 
+## 05 / Contribution traffic
+
+A moving trail through my GitHub contribution calendar, in the colors of this notebook.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
+  <img src="./assets/contributions-dark.svg" width="100%" alt="Animated snake moving through AyhmQQ's GitHub contribution calendar, with cyan activity squares.">
+</picture>
+
+<sub>Refreshed daily from GitHub contribution data · Animation powered by <a href="https://github.com/Platane/snk">snk</a></sub>
+
 ---
 
 I'm interested in opportunities to learn, collaborate, and gain practical experience in networking and network security. **[Let's connect on LinkedIn.](https://www.linkedin.com/in/ayhmqq/)**
